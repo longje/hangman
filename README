@@ -1,0 +1,14 @@
+#######################################################
+# Author: Jason
+# WebSite: www.solvebysearch.com
+# Language: Java
+#######################################################
+
+Compile: Create bin -> from bin -> javac -d . ../src/*.java
+Run : java GameGui
+
+Description:
+A simple game of hangman.
+
+Features:
+	Simply press any letter on the keyboard to make a guess.
